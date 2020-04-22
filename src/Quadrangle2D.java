@@ -9,7 +9,7 @@ public class Quadrangle2D{
             point3 = p3;
             point4 = p4;
         } else {
-            System.out.println("Invalid points please,reorder them or change them! ");
+            System.out.println("Invalid points please,reorder them or change them!");
         }
     }
 
